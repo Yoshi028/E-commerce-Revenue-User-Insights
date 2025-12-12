@@ -39,15 +39,12 @@ The project highlights key business insights through visualizations and descript
 
 ## 🧾 Contents
 
-project/
-│
-├── data/ # Raw datasets
-├── output/ # Generated charts (PNG)
-├── report/ # Full written report (PDF/Markdown)
+project/  
+│  
+├── data/ # Raw datasets  
+├── output/ # Generated charts (PNG)  
+├── report/ # Full written report (PDF/Markdown)  
 └── notes/ # Analysis notes or intermediate calculations
-
-pgsql
-コードをコピーする
 
 ## 📁 Available Visualizations
 - Weekly Sales Trend  
